@@ -1,6 +1,6 @@
 # 🌐 Portfólio | Juliane Machado de Oliveira
 
-Portfólio profissional desenvolvido com foco em oportunidades de estágio na área de tecnologia, reunindo minha formação, habilidades, experiências práticas e projetos.
+Portfólio profissional desenvolvido para apresentar minha formação, habilidades, experiências práticas e projetos na área de tecnologia.
 
 ---
 
@@ -50,7 +50,7 @@ Atuar como estagiária ou desenvolvedora júnior em Tecnologia da Informação, 
 - ✅ Kanban
 - 📝 Documentação técnica
 - 🗂️ Organização de processos
-- 🔗 Apoio em integrações e automações
+- 🔗 Integrações e automações
 - 📄 Criação de playbooks e documentação de processos
 
 ---
@@ -78,7 +78,7 @@ Atuar como estagiária ou desenvolvedora júnior em Tecnologia da Informação, 
 
 ## 🚀 Sobre este projeto
 
-Este portfólio online foi desenvolvido para apresentar minha trajetória na área de tecnologia, destacando minhas habilidades técnicas, experiências práticas, projetos e formas de contato.
+Este portfólio online foi desenvolvido para apresentar minha trajetória na área de tecnologia, destacando habilidades técnicas, experiências práticas, projetos e formas de contato.
 
 🔗 **Acesse online:** [julianedev.vercel.app](https://julianedev.vercel.app/)  
 💻 **Repositório:** [github.com/juliane2301/portfolio](https://github.com/juliane2301/portfolio)
